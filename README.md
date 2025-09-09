@@ -1,48 +1,70 @@
-# Airtasker Clone – MoonService by Oyelabs  
+![Version](https://img.shields.io/badge/version-3.6.0-blue.svg?cacheSeconds=2592000)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oyelabs?lang=en)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myoyelabs/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@oyelabs9119?si=jpMaBUfNigpVCjuf)
 
-MoonService by Oyelabs gives you the power to [launch your own Airtasker-like marketplace](https://oyelabs.com/airtasker-clone/) where people can post tasks and get them done by nearby skilled providers. From assembling furniture to helping with a garden project, MoonService makes connecting people and getting jobs done simple and secure.  
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://oyelabs.com/airtasker-clone/">
+    <img src="https://oyelabs.com/wp-content/uploads/2025/02/Readymade-Airtasker-clone-script.jpg" alt="Logo" width="120" height="120">
+  </a>
 
-***MOONSERVICE – Create Your Community-Powered Task Marketplace***  
+  <h3 align="center">Launch Airtasker Clone</h3>
 
-Unlike traditional service booking apps, an Airtasker-like model is **community-driven**, customers post their tasks, set a budget, and service providers make offers. MoonService is a ready-to-use solution that helps you create this exact experience. It’s flexible enough to work for hyperlocal communities, city-wide platforms, or even international rollouts.  
+  <p align="center">
+    A Airtasker Clone App built with PHP Laravel & Flutter 3.10.6
+    <br />
+    <a href="https://oyelabs.com/airtasker-clone/"><strong>Explore the Product »</strong></a>
+    <br />
+    <br />
 
-Built with **Laravel** for backend strength and **Flutter** for cross-platform mobile apps, MoonService is reliable, fast, and scalable. It gives you the perfect mix of speed-to-market and long-term flexibility for growth.  
 
-***Why MoonService Stands Out*** 
+### Launch Your Airtasker Clone: Step-by-Step Guide  
 
-The gig economy thrives on **trust, choice, and convenience**. MoonService is designed around these principles, giving your users a seamless platform to connect, collaborate, and complete tasks. We don’t just hand you a script - we support you with updates, customization, and technical help all year round.  
+Getting everyday tasks done has never been easier. With an Airtasker Clone, you can create a platform where people hire local professionals for cleaning, repairs, deliveries, and more. Customers get tasks completed quickly, while service providers earn on-demand income—all through a simple, reliable app.  
 
-***Key Features of MoonService***  
+***Step 1: Understand the Task Marketplace***  
 
-**For Customers**  
-- Post tasks with details, budget, and timeline  
-- Get multiple offers from providers and choose the right fit  
-- Negotiate and finalize before assigning the task  
-- Make payments securely via multiple gateways  
-- Rate and review providers to build community trust  
+The success of your platform depends on connecting:  
 
-**For Service Providers**  
-- Build a profile showcasing skills, reviews, and completed tasks  
-- Browse open tasks and send custom offers  
-- Manage workload, schedules, and payments in one dashboard  
-- Real-time chat for negotiation and task updates  
-- Earn credibility through ratings and repeat clients  
+- **Customers** – Post tasks with clear details, deadlines, and budgets.  
+- **Taskers** – Browse, bid, and complete tasks efficiently.  
+- **Admins** – Monitor activity, manage payments, and ensure smooth operations.  
 
-**For Admins**  
-- Monitor users, tasks, and payments through a central dashboard  
-- Flexible commission setup (per task or percentage-based)  
-- Tools for handling disputes and refunds fairly  
-- Manage promotions, referral bonuses, and loyalty offers  
-- Access detailed analytics for business growth decisions  
-- Multi-language and multi-currency ready for global scaling  
+***Step 2: Build Key Features***  
 
-***Why It Works***  
+To make your Airtasker Clone effective, include:  
 
-What makes Airtasker’s model special is the **open marketplace approach**, customers get choice, providers get opportunities, and trust grows with every completed task. MoonService captures this model and gives you the framework to launch quickly, scale smoothly, and create a trusted service community.  
+- **Customer App** – Post tasks, track progress, and pay securely.  
+- **Tasker App** – Accept tasks, manage schedules, and update completion.  
+- **Admin Panel** – Oversee tasks, users, and transactions.  
+- **Secure Payments** – Protect both customers and taskers.  
+- **Ratings & Reviews** – Build credibility and accountability.  
+- **Task Categories & Filters** – Help users find the right professionals quickly.  
 
-We’re here **365 days a year** with updates and support, so your platform never misses a beat.  
+***Step 3: Share the Platform’s Value*** 
 
-Ready to build your own **Airtasker-style community marketplace**? MoonService is designed to help you make it happen.  
+Your Airtasker Clone connects people who need work done with those who can do it efficiently. Promote your platform with blogs, social media, or campaigns to highlight convenience, earning potential, and reliability.  
 
-📧 Email: **myoyelabs@gmail.com**  
-🌐 Website: [www.oyelabs.com](http://www.oyelabs.com/)  
+***Step 4: Build Trust with Insights***  
+
+Support your platform with data:  
+
+- Rising demand for on-demand task services.  
+- Mobile-first solutions preferred by users.  
+- Transparent pricing and reliable task completion drive loyalty.  
+
+***Step 5: Let Users Experience It***  
+
+Hands-on use builds trust and engagement:  
+
+- **Customers** – Try posting and tracking tasks.  
+- **Taskers** – Test bidding and task completion.  
+
+---
+
+Launching your Airtasker Clone allows you to build a reliable, user-friendly task marketplace. Focus on smooth features, excellent support, and clear communication to grow successfully.  
+
+🌐 Sources  
+[Airtasker Clone – Launch Your Own On-Demand Task Platform](https://oyelabs.com/airtasker-clone/)
